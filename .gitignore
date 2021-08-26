@@ -1,6 +1,10 @@
 # Ignore tags
 *tags
 
+# Ignore model
+pytorch_model.bin
+vocab.txt
+
 # OSX
 *.DS_Store
 
